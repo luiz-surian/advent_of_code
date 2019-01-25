@@ -14,7 +14,7 @@ def load_import(file="input"):
             content = int(f.read())
         return content, grid_size
     else:
-        return 57, grid_size
+        return 42, grid_size
 
 
 def find_power_level(grid_serial_number, x, y):
