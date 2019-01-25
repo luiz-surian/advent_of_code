@@ -1,0 +1,2 @@
+For grid serial number 18, the largest total 3x3 square has a top-left corner of 33,45 (with a total power of 29)
+For grid serial number 42, the largest total 3x3 square has a top-left corner of 21,61 (with a total power of 30)
